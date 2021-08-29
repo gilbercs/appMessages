@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <!--String Titulo do App-->
+    <string name="title_registro">Registro Usuario</string>
+    <string name="chat_user">Nome do Usuario</string>
+    <string name="chat_log_conversa">Conversa</string>
+    <string name="title_select_user">Selecionar Usuario</string>
+    <!--String campo logar do App-->
+    <string name="campo_user">Digite seu e-mail</string>
+    <string name="campo_pass">Digite sua senha?</string>
+    <!--String de registro de usuario do  App-->
+    <string name="registro_name">Informe seu nome?</string>
+    <string name="registro_email">Informe seu e-mail?</string>
+    <string name="registro_password">Informe uma senha?</string>
+    <string name="registro_password_confirm">Confirme a senha</string>
+    <string name="registro_images_url">imagen perfil</string>
+    <!--String Saida de dados do App-->
+    <!--String Button do App-->
+    <string name="btn_enter">Entrar</string>
+    <string name="btn_register">Registrar</string>
+    <string name="btn_enviar">Enviar</string>
+    <!--String utilizado no  App-->
+    <string name="text_register">Não tem conta?? Crie uma gratis!!</string>
+    <!--Conversar no  App-->
+    <string name="adapter_conversa_user_one">Conversa User One!!</string>
+    <string name="adapter_conversa_user_two">Conversa User Two</string>
+    <!--String utlizanda na descrição de image no  App-->
+    <string name="cont_description_img">Avatar</string>
+    <!--String Utilizanda no menu no  App-->
+    <string name="menu_sair">Sair</string>
+    <string name="menu_new_chat">Conversar</string>
+    <!--String Utilizanda no adapter home no  App-->
+    <string name="adapter_home_imagens">Imagens Perfil</string>
+    <string name="adapter_home_name_user">Nome do Usuario</string>
+    <string name="adapter_home_mensagens_recentes">Mensagens recentes</string>
+    <!--String Toast: Mensagens do  App-->
+    <string name="toast_login_registro_sucesso">Login realizado com sucesso</string>
+    <string name="toast_login_falha">Falha ao realizar login</string>
+
+
+</resources>

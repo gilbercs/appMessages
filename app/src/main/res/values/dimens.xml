@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Size Fonte App-->
+    <dimen name="size_title">24sp</dimen>
+    <dimen name="size_sub_title">18sp</dimen>
+    <dimen name="size_text">16sp</dimen>
+    <dimen name="size_rodape">10sp</dimen>
+    <dimen name="size_comentary">12sp</dimen>
+    <!--Size Padding App-->
+    <!--Size Margen App-->
+    <dimen name="dm_layout_guideline">32sp</dimen>
+</resources>

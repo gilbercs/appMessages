@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/drawable/custom_button.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/drawable/custom_campo_register.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/drawable/custom_img.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/drawable/ic_chat_24.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat_conversa.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat_home.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat_list.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat_log.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat_new.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_chat_user.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_login.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/activity_register.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/adapter_from_row.xml" value="0.10009057971014493" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/adapter_home_conversa.xml" value="0.25" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/adapter_to_row.xml" value="0.10009057971014493" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/adapter_user_new.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/adapter_user_one.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/adapter_user_two.xml" value="0.1" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/user_new.xml" value="0.10009057971014493" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/layout/user_new_conversa.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/Gilber/Documents/Messenger/app/src/main/res/menu/menu.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

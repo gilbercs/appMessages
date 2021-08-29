@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10sp"
+    app:cardElevation="8sp"
+    app:cardMaxElevation="5sp"
+    android:layout_margin="10sp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2sp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/id_adapter_home_img_perfil"
+            android:layout_width="65sp"
+            android:layout_height="65sp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="@string/adapter_home_imagens"
+            app:civ_border_color="@android:color/holo_blue_light"
+            app:civ_border_width="2dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/id_adapter_home_messages_recentes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/adapter_home_mensagens_recentes"
+            android:textSize="@dimen/size_comentary"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/id_adapter_home_img_perfil"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/id_adapter_home_img_perfil" />
+
+        <TextView
+            android:id="@+id/id_adapter_home_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/adapter_home_name_user"
+            android:textColor="@color/black"
+            android:textSize="@dimen/size_text"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/id_adapter_home_messages_recentes"
+            app:layout_constraintStart_toEndOf="@+id/id_adapter_home_img_perfil"
+            app:layout_constraintTop_toTopOf="@+id/id_adapter_home_img_perfil" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
