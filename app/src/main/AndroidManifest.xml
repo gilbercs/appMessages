@@ -32,7 +32,6 @@
             android:parentActivityName=".firebase.LoginActivity" />
         <activity
             android:name=".chat.ChatHomeActivity"
-            android:icon="@drawable/ic_message_24"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
